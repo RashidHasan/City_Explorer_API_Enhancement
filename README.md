@@ -1,3 +1,6 @@
+
+![Screenshot (1126)](https://github.com/RashidHasan/City_Explorer_API_Enhancement/assets/136935583/a9c8d19b-760e-4437-8847-1f34595b191b)
+
 ## Project: ExploreWonders App
 
 ### Project Description:
