@@ -5,6 +5,13 @@
 
 ### Project Description:
 As a web developer at an IT company, you have been assigned two projects to be completed within a month. The primary project involves enhancing the application of ExploreWonders, a prominent tourism company. The goal is to upgrade their web application by introducing a "City Explorer Corner" utilizing API technology. This feature enables users to input a city name, click "explore," and receive valuable information for trip planning, including weather, maps, food recommendations, and more.
+
+
+![Screenshot3](https://github.com/RashidHasan/City_Explorer_API_Enhancement/assets/136935583/965ab66a-386d-4c4c-af01-7406e9c0f889)
+![Screenshot4](https://github.com/RashidHasan/City_Explorer_API_Enhancement/assets/136935583/1078c420-1665-4f65-b042-bc2bb2e922a5)
+
+
+
 Transferable Skills and Competencies Developed:
 
 - Understanding APIs: Identified the importance of APIs, their role, and various types.
